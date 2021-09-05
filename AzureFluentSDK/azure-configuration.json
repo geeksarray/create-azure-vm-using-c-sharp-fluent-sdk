@@ -1,0 +1,12 @@
+{
+  "clientId": "update your client id",
+  "clientSecret": "update your client secret",
+  "subscriptionId": "update your subscription id here",
+  "tenantId": "update your tenant id here",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
+}
